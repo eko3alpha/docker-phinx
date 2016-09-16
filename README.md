@@ -1,2 +1,2 @@
 # docker-phinx
-Docker image for phinx
+Docker image for [Phinx](https://phinx.org/)
